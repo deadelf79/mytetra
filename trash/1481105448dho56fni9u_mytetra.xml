@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1481102225ii96oozvwm" name="Ruby">
+   <node crypt="" id="1481102243qu36lrby52" name="RGSS3">
+    <recordtable>
+     <record id="14811052100lbedfh2g7" name="Template Events" author="DeadElf79" url="" tags="event, templates, automatic" ctime="20161207130650" dir="1481105210m93iqx2i18" file="text.html"/>
+     <record id="1481105320ge8bgwdck9" name="Basic Autosave" author="V.M. of D.T." url="" tags="save, automatic" ctime="20161207130840" dir="1481105320laoebtbqtk" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1481105399to1dy2kd2h" name="RoR"/>
+  </node>
+  <node crypt="" id="1481105415wgl5j4wnrd" name="Обучалки">
+   <node crypt="" id="1481105428aajrhoujiw" name="Начинающим сценаристам"/>
+   <node crypt="" id="1481105436iv9tirttzd" name="Программистам"/>
+   <node crypt="" id="1481105444eiah79stu4" name="Художникам"/>
+  </node>
+ </content>
+</root>
