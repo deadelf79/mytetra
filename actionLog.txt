@@ -6,3 +6,5 @@
 <r v="1" t="1481129828" a="startProgram" />
 <r v="1" t="1481129871" a="createRecord" branchId="1481102243qu36lrby52" branchName="RGSS3" recordId="1481129871g0vgds0lqu" recordName="Star Passability Bug Fix" />
 <r v="1" t="1481129875" a="startSyncro" />
+<r v="1" t="1481129881" a="syncroError" />
+<r v="1" t="1481129906" a="stopSyncro" />
