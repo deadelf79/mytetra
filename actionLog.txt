@@ -1,2 +1,8 @@
 <r v="1" t="1481105690" a="startProgram" />
 <r v="1" t="1481105755" a="startSyncro" />
+<r v="1" t="1481106900" a="createRecord" branchId="1481102243qu36lrby52" branchName="RGSS3" recordId="1481106900dkw8yeg0ok" recordName="Dispose all sprites and bitmaps" />
+<r v="1" t="1481107050" a="createRecord" branchId="1481102243qu36lrby52" branchName="RGSS3" recordId="1481107050aueh7sc0u3" recordName="Ace Message System" />
+<r v="1" t="1481107153" a="stopProgram" />
+<r v="1" t="1481129828" a="startProgram" />
+<r v="1" t="1481129871" a="createRecord" branchId="1481102243qu36lrby52" branchName="RGSS3" recordId="1481129871g0vgds0lqu" recordName="Star Passability Bug Fix" />
+<r v="1" t="1481129875" a="startSyncro" />

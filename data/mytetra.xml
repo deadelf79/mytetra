@@ -14,6 +14,9 @@
      <record id="14811052100lbedfh2g7" name="Template Events" author="DeadElf79" url="" tags="event, templates, automatic" ctime="20161207130650" dir="1481105210m93iqx2i18" file="text.html"/>
      <record id="1481105320ge8bgwdck9" name="Basic Autosave" author="V.M. of D.T." url="" tags="save, automatic" ctime="20161207130840" dir="1481105320laoebtbqtk" file="text.html"/>
      <record id="1481105568nqh87hsfzy" name="Zelda scrolling" author="DeadElf79" url="" tags="mapping, manual" ctime="20161207131248" dir="1481105568ns678klrgg" file="text.html"/>
+     <record id="1481106900dkw8yeg0ok" name="Dispose all sprites and bitmaps" author="DeadElf79" url="" tags="rgss fix, automatic" ctime="20161207133500" dir="14811069008gz4jb2gz0" file="text.html"/>
+     <record id="1481107050aueh7sc0u3" name="Ace Message System" author="Yanfly" url="" tags="message, rgss cms, semiautomatic" ctime="20161207133730" dir="1481107050jkydtqx6gd" file="text.html"/>
+     <record id="1481129871g0vgds0lqu" name="Star Passability Bug Fix" author="NeonBlack" url="" tags="rgss fix" ctime="20161207195751" dir="1481129871uajnhu1jto" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481105399to1dy2kd2h" name="RoR"/>
