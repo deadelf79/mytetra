@@ -8,3 +8,16 @@
 <r v="1" t="1481129875" a="startSyncro" />
 <r v="1" t="1481129881" a="syncroError" />
 <r v="1" t="1481129906" a="stopSyncro" />
+<r v="1" t="1481131715" a="startSyncro" />
+<r v="1" t="1481131718" a="syncroError" />
+<r v="1" t="1481131763" a="stopSyncro" />
+<r v="1" t="1481131764" a="startSyncro" />
+<r v="1" t="1481131771" a="stopSyncro" />
+<r v="1" t="1481478424" a="startProgram" />
+<r v="1" t="1481478507" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481478507s1sagordhm" recordName="Как вызвать эмоции у зрителя?" />
+<r v="1" t="1481478583" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481478583vg8quipx61" recordName="16 правил сценариста" />
+<r v="1" t="1481478830" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="14814788309f2rdbq3tn" recordName="Путь героя по книге Кэмпбелла &quot;Тысячеликий герой&quot;" />
+<r v="1" t="1481478872" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481478872u067ir4ja3" recordName="Путь героини по Морин Мердок" />
+<r v="1" t="1481478911" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="14814789119t5cv4hkg5" recordName="10 сценарных советов Билли Уайлдера" />
+<r v="1" t="1481478987" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481478987kbp6j4herm" recordName="Как придумать сюжет книги: фабула и восьмипунктовая дуга" />
+<r v="1" t="1481478989" a="startSyncro" />

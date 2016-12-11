@@ -22,7 +22,16 @@
    <node crypt="" id="1481105399to1dy2kd2h" name="RoR"/>
   </node>
   <node crypt="" id="1481105415wgl5j4wnrd" name="Обучалки">
-   <node crypt="" id="1481105428aajrhoujiw" name="Начинающим сценаристам"/>
+   <node crypt="" id="1481105428aajrhoujiw" name="Начинающим сценаристам">
+    <recordtable>
+     <record id="1481478507s1sagordhm" name="Как вызвать эмоции у зрителя?" author="" url="http://www.cinemotionlab.com/stati/Kak_vizvat_emocii_y zritelya/" tags="" ctime="20161211204827" dir="1481478507vdh1oaoqaz" file="text.html"/>
+     <record id="1481478583vg8quipx61" name="16 правил сценариста" author="" url="http://www.mabuk.ru/book/export/html/926" tags="" ctime="20161211204943" dir="1481478583twnbmt0wt0" file="text.html"/>
+     <record id="14814788309f2rdbq3tn" name="Путь героя по книге Кэмпбелла &quot;Тысячеликий герой&quot;" author="" url="http://kinomaster.org/put-geroya-po-dzhozefu-ke-mpbellu/" tags="" ctime="20161211205350" dir="1481478830n3i61ywosb" file="text.html"/>
+     <record id="1481478872u067ir4ja3" name="Путь героини по Морин Мердок" author="" url="http://kinomaster.org/put-geroini-po-morin-merdok/" tags="" ctime="20161211205432" dir="148147887291ovs0v4r1" file="text.html"/>
+     <record id="14814789119t5cv4hkg5" name="10 сценарных советов Билли Уайлдера" author="" url="http://kinomaster.org/billi-uajlder/" tags="" ctime="20161211205511" dir="14814789115l0go8qh0p" file="text.html"/>
+     <record id="1481478987kbp6j4herm" name="Как придумать сюжет книги: фабула и восьмипунктовая дуга" author="" url="http://school-of-inspiration.ru/kak-pridumat-syuzhet-knigi-fabula-i-vosmipunktovaya-duga" tags="" ctime="20161211205627" dir="1481478987tpwqqjf0ho" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="" id="1481105436iv9tirttzd" name="Программистам"/>
    <node crypt="" id="1481105444eiah79stu4" name="Художникам"/>
    <node crypt="" id="1481105448vhtrn39gu0" name="Дизайнерам"/>
