@@ -21,3 +21,14 @@
 <r v="1" t="1481478911" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="14814789119t5cv4hkg5" recordName="10 сценарных советов Билли Уайлдера" />
 <r v="1" t="1481478987" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481478987kbp6j4herm" recordName="Как придумать сюжет книги: фабула и восьмипунктовая дуга" />
 <r v="1" t="1481478989" a="startSyncro" />
+<r v="1" t="1481479005" a="stopSyncro" />
+<r v="1" t="1481479095" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="14814790956nnx6waq2p" recordName="Архетипы второстепенных героев: образ помощника протагониста" />
+<r v="1" t="1481479137" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481479137mjxfv0c4sg" recordName="Советы. Архисюжет, мини-сюжет и антисюжет" />
+<r v="1" t="1481479459" a="startSyncro" />
+<r v="1" t="1481479467" a="stopSyncro" />
+<r v="1" t="1481480441" a="createRecord" branchId="1481480397umifi0grdw" branchName="Интересные статьи" recordId="1481480441qruqyi72hi" recordName="5 ужасных истин о разработке мобильных игр — мнение комика" />
+<r v="1" t="1481481224" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481481224xxgzjkzpku" recordName="Готовим сценарную заявку" />
+<r v="1" t="1481481285" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481481285nydmwsnmbi" recordName="Цель героя" />
+<r v="1" t="1481481320" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481481320763tdyx7hv" recordName="Структура Трех Актов или Структура Пяти Актов?" />
+<r v="1" t="1481481349" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481481349je1r706m5v" recordName="Чем опасна трехактная структура для сценария" />
+<r v="1" t="1481481415" a="startSyncro" />
