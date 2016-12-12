@@ -32,3 +32,6 @@
 <r v="1" t="1481481320" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481481320763tdyx7hv" recordName="Структура Трех Актов или Структура Пяти Актов?" />
 <r v="1" t="1481481349" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1481481349je1r706m5v" recordName="Чем опасна трехактная структура для сценария" />
 <r v="1" t="1481481415" a="startSyncro" />
+<r v="1" t="1481481423" a="stopSyncro" />
+<r v="1" t="1481542064" a="createRecord" branchId="1481541854417c56b5jx" branchName="Заметки" recordId="1481542064qdlhdmlw84" recordName="Грядущие обновы Rose to freedom" />
+<r v="1" t="1481542845" a="startSyncro" />
