@@ -35,3 +35,5 @@
 <r v="1" t="1481481423" a="stopSyncro" />
 <r v="1" t="1481542064" a="createRecord" branchId="1481541854417c56b5jx" branchName="Заметки" recordId="1481542064qdlhdmlw84" recordName="Грядущие обновы Rose to freedom" />
 <r v="1" t="1481542845" a="startSyncro" />
+<r v="1" t="1481542861" a="stopSyncro" />
+<r v="1" t="1481645879" a="startSyncro" />
