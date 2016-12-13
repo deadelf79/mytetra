@@ -37,3 +37,10 @@
 <r v="1" t="1481542845" a="startSyncro" />
 <r v="1" t="1481542861" a="stopSyncro" />
 <r v="1" t="1481645879" a="startSyncro" />
+<r v="1" t="1481645895" a="stopSyncro" />
+<r v="1" t="1481645895" a="stopProgram" />
+<r v="1" t="1481645902" a="startProgram" />
+<r v="1" t="1481646732" a="createRecord" branchId="1481541854417c56b5jx" branchName="Заметки" recordId="1481646732pbw0r909ed" recordName="Символы Юникода" />
+<r v="1" t="1481647000" a="editRecord" recordId="1481646732pbw0r909ed" recordName="Символы Юникода в HTML" />
+<r v="1" t="1481647230" a="createRecord" branchId="1481541854417c56b5jx" branchName="Заметки" recordId="14816472309q1e4z6xv3" recordName="Еще символы" />
+<r v="1" t="1481647288" a="startSyncro" />
