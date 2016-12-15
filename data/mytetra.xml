@@ -17,6 +17,9 @@
      <record id="1481106900dkw8yeg0ok" name="Dispose all sprites and bitmaps" author="DeadElf79" url="" tags="rgss fix, automatic" ctime="20161207133500" dir="14811069008gz4jb2gz0" file="text.html"/>
      <record id="1481107050aueh7sc0u3" name="Ace Message System" author="Yanfly" url="" tags="message, rgss cms, semiautomatic" ctime="20161207133730" dir="1481107050jkydtqx6gd" file="text.html"/>
      <record id="1481129871g0vgds0lqu" name="Star Passability Bug Fix" author="NeonBlack" url="" tags="rgss fix" ctime="20161207195751" dir="1481129871uajnhu1jto" file="text.html"/>
+     <record id="1481820664g9uyaxc25k" name="Template Events Addon: Merge parallel events" author="DeadElf79" url="http://rpgmaker.ru/forum/652-ostalnye-skripty/61524-vx-ace-shablony-sliyanie-parallelnykh-sobytij" tags="events, templates, addons" ctime="20161215195104" dir="1481820664cn17t982us" file="text.html"/>
+     <record id="1481820880rfhxw8z82v" name="Merge parallel events" author="DeadElf79" url="" tags="events" ctime="20161215195440" dir="1481820880wmizot0j3k" file="text.html"/>
+     <record id="1481821011iqr9l4rbb2" name="HUD" author="DeadElf79" url="" tags="hud, rose to freedom" ctime="20161215195651" dir="14818210117ahvtm6g9g" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481105399to1dy2kd2h" name="RoR"/>
@@ -58,6 +61,11 @@
    <node crypt="1" icon="" id="1481647338opkl9jvk9k" name="UkM1U0lNUAO3DASk1QRm4WKcUbPEVYRI7pkDuLkOOPWaSj6rKNLqKlVDDaXR3Cts31XMWDpN08s=">
     <recordtable>
      <record id="1481647457p2r97bl4n9" name="UkM1U0lNUAPR3UGnMRPabgevOjhCd7CP0QKG0T3raHHO2gQBrVRNvvCGoaV0FdqsG0y99tbayalrTiGD3N1bGzcCoged2nW1UGSL39IxKMrAd6MeHkIjdjUvEWGSXoHrGbwYcZZ7YiHBHbdb5PRL1zB1S1Ew1vcP" author="UkM1U0lNUAOrWZ9PZpvDY5ST9IIVEobhwLdf4hVxhFSq5Yqt3pOsmjldBL8ynDJTMVxwd9LOIYs=" url="" tags="" ctime="20161213194417" dir="1481647457bron5gmfz5" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1481820448hkh6xuncxz" name="UkM1U0lNUAN7P/njTkOwtrvEls+MCL8W6NLf6+Us9EY6K4n5aBxKYkNGhuBaKWuZlgUJ60lPm5w=">
+    <recordtable>
+     <record id="1481820490fpugz1jnnk" name="UkM1U0lNUAP53nOcVblS6qkctFDeTK+k/2P5re/0putiXf+Qidb+H6L+ud5lG5q9jWH1GGmIgoe+aM/WPpMYaJ7OdGKU0CpooKZ7DlUFqvM=" author="" url="" tags="" ctime="20161215194810" dir="1481820490um66ntknz8" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>

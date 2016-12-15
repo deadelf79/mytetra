@@ -44,3 +44,14 @@
 <r v="1" t="1481647000" a="editRecord" recordId="1481646732pbw0r909ed" recordName="Символы Юникода в HTML" />
 <r v="1" t="1481647230" a="createRecord" branchId="1481541854417c56b5jx" branchName="Заметки" recordId="14816472309q1e4z6xv3" recordName="Еще символы" />
 <r v="1" t="1481647288" a="startSyncro" />
+<r v="1" t="1481647296" a="stopSyncro" />
+<r v="1" t="1481647457" a="createCryptRecord" branchId="1481647338opkl9jvk9k" branchName="UkM1U0lNUAO3DASk1QRm4WKcUbPEVYRI7pkDuLkOOPWaSj6rKNLqKlVDDaXR3Cts31XMWDpN08s=" recordId="1481647457p2r97bl4n9" recordName="UkM1U0lNUAPR3UGnMRPabgevOjhCd7CP0QKG0T3raHHO2gQBrVRNvvCGoaV0FdqsG0y99tbayalrTiGD3N1bGzcCoged2nW1UGSL39IxKMrAd6MeHkIjdjUvEWGSXoHrGbwYcZZ7YiHBHbdb5PRL1zB1S1Ew1vcP" />
+<r v="1" t="1481647461" a="startSyncro" />
+<r v="1" t="1481647468" a="stopSyncro" />
+<r v="1" t="1481820490" a="createCryptRecord" branchId="1481820448hkh6xuncxz" branchName="UkM1U0lNUAN7P/njTkOwtrvEls+MCL8W6NLf6+Us9EY6K4n5aBxKYkNGhuBaKWuZlgUJ60lPm5w=" recordId="1481820490fpugz1jnnk" recordName="UkM1U0lNUAP53nOcVblS6qkctFDeTK+k/2P5re/0putiXf+Qidb+H6L+ud5lG5q9jWH1GGmIgoe+aM/WPpMYaJ7OdGKU0CpooKZ7DlUFqvM=" />
+<r v="1" t="1481820664" a="createRecord" branchId="1481102243qu36lrby52" branchName="RGSS3" recordId="1481820664g9uyaxc25k" recordName="Template Events" />
+<r v="1" t="1481820684" a="editRecord" recordId="1481820664g9uyaxc25k" recordName="Template Events" />
+<r v="1" t="1481820766" a="editRecord" recordId="1481820664g9uyaxc25k" recordName="Template Events Addon: Merge parallel events" />
+<r v="1" t="1481820880" a="createRecord" branchId="1481102243qu36lrby52" branchName="RGSS3" recordId="1481820880rfhxw8z82v" recordName="Merge parallel events" />
+<r v="1" t="1481821011" a="createRecord" branchId="1481102243qu36lrby52" branchName="RGSS3" recordId="1481821011iqr9l4rbb2" recordName="HUD" />
+<r v="1" t="1481821035" a="startSyncro" />
