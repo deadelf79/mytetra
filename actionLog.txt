@@ -62,3 +62,8 @@
 <r v="1" t="1481902460" a="editRecord" recordId="1481481349je1r706m5v" recordName="Чем опасна трехактная структура для сценария" />
 <r v="1" t="1481902660" a="createRecord" branchId="14819025083qdj45dwyh" branchName="Книги купить" recordId="1481902660pi6ezyd9xc" recordName="Человек, который съел машину" />
 <r v="1" t="1481903635" a="startSyncro" />
+<r v="1" t="1481903656" a="stopSyncro" />
+<r v="1" t="1481905722" a="createRecord" branchId="14819056133wqy1445mk" branchName="Логические ошибки" recordId="1481905722z773rjnole" recordName="Логическая ошибка. Определение" />
+<r v="1" t="1481905786" a="createRecord" branchId="14819056133wqy1445mk" branchName="Логические ошибки" recordId="1481905786vy0yafow8f" recordName="Ad hoc" />
+<r v="1" t="1481905899" a="createRecord" branchId="14819056133wqy1445mk" branchName="Логические ошибки" recordId="1481905899bmn91rfahq" recordName="Специальные требования" />
+<r v="1" t="1481905995" a="startSyncro" />

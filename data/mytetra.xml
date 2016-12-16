@@ -75,5 +75,12 @@
     <record id="1481902660pi6ezyd9xc" name="Человек, который съел машину" author="Натали Голдберг" url="https://www.alpinabook.ru/catalog/CreativityAndCreation/78949/" tags="сценарист, писатель, сценарий" ctime="20161216183740" dir="148190266092ty2ugwye" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="14819056133wqy1445mk" name="Логические ошибки">
+   <recordtable>
+    <record id="1481905722z773rjnole" name="Логическая ошибка. Определение" author="" url="http://ru.rationalwiki.org/wiki/Логическая_ошибка" tags="" ctime="20161216192842" dir="1481905722zszgjixrky" file="text.html"/>
+    <record id="1481905786vy0yafow8f" name="Ad hoc" author="" url="" tags="" ctime="20161216192946" dir="1481905786gbdjs62w2g" file="text.html"/>
+    <record id="1481905899bmn91rfahq" name="Специальные требования" author="" url="http://ru.rationalwiki.org/wiki/Ситуативная_надстройка" tags="" ctime="20161216193139" dir="14819058997ec57mrtn9" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
