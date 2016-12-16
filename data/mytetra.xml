@@ -38,7 +38,8 @@
      <record id="1481481224xxgzjkzpku" name="Готовим сценарную заявку" author="" url="http://zurblog.ru?p=895" tags="" ctime="20161211213344" dir="14814812248ks2xx61bl" file="text.html"/>
      <record id="1481481285nydmwsnmbi" name="Цель героя" author="" url="https://www.avtoram.com/blog/2012/11/20/tzel_geroya/" tags="" ctime="20161211213445" dir="1481481285q4w6tjb7za" file="text.html"/>
      <record id="1481481320763tdyx7hv" name="Структура Трех Актов или Структура Пяти Актов?" author="" url="http://blikportal.com/publ/master_klass/struktura_trekh_aktov_ili_struktura_pjati_aktov/1-1-0-142" tags="" ctime="20161211213520" dir="1481481320zawd3dw14t" file="text.html"/>
-     <record id="1481481349je1r706m5v" name="Чем опасна трехактная структура для сценария" author="" url="" tags="" ctime="20161211213549" dir="1481481349j7ptas2o4f" file="text.html"/>
+     <record id="1481481349je1r706m5v" name="Чем опасна трехактная структура для сценария" author="" url="http://www.cinemotionlab.com/novosti/01841-chem_opasna_trehaktnaya_struktura_dlya_scenariya/" tags="" ctime="20161211213549" dir="1481481349j7ptas2o4f" file="text.html"/>
+     <record id="1481902384z21q4pkp69" name="Иногда ты ешь машину, иногда машина есть тебя: писателю от писателя" author="Кристина Ятковская&#10;PR-директор «Альпины Паблишер»" url="http://blog.alpinabook.ru/inogda-tyi-esh-mashinu-inogda-mashina-est-tebya-pisatelyu-ot-pisatelya/" tags="" ctime="20161216183304" dir="1481902384gbjio8sqkm" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481105436iv9tirttzd" name="Программистам"/>
@@ -68,6 +69,11 @@
      <record id="1481820490fpugz1jnnk" name="UkM1U0lNUAP53nOcVblS6qkctFDeTK+k/2P5re/0putiXf+Qidb+H6L+ud5lG5q9jWH1GGmIgoe+aM/WPpMYaJ7OdGKU0CpooKZ7DlUFqvM=" author="" url="" tags="" ctime="20161215194810" dir="1481820490um66ntknz8" file="text.html" crypt="1"/>
     </recordtable>
    </node>
+  </node>
+  <node crypt="" id="14819025083qdj45dwyh" name="Книги купить">
+   <recordtable>
+    <record id="1481902660pi6ezyd9xc" name="Человек, который съел машину" author="Натали Голдберг" url="https://www.alpinabook.ru/catalog/CreativityAndCreation/78949/" tags="сценарист, писатель, сценарий" ctime="20161216183740" dir="148190266092ty2ugwye" file="text.html"/>
+   </recordtable>
   </node>
  </content>
 </root>
