@@ -67,3 +67,8 @@
 <r v="1" t="1481905786" a="createRecord" branchId="14819056133wqy1445mk" branchName="Логические ошибки" recordId="1481905786vy0yafow8f" recordName="Ad hoc" />
 <r v="1" t="1481905899" a="createRecord" branchId="14819056133wqy1445mk" branchName="Логические ошибки" recordId="1481905899bmn91rfahq" recordName="Специальные требования" />
 <r v="1" t="1481905995" a="startSyncro" />
+<r v="1" t="1481906003" a="stopSyncro" />
+<r v="1" t="1482670346" a="startProgram" />
+<r v="1" t="1482670717" a="createCryptRecord" branchId="1482670415jsxuf1syb0" branchName="UkM1U0lNUAMg1HGbiSn7n7K1bFhAD/K2WMmmitZ9oadMuKyhG0vwuj6k4zupiBO8Ndhm+Gig72PyVwTzAmpWvia8fJZ2ZSoK" recordId="1482670717560vy1zo2s" recordName="UkM1U0lNUANJ0zZ1NXB6mUSkPLes9OXcNF18vtrfYicFj1xRbHJUVL3G6ooHOq4W0RZ5j6aYYgNKgCA8pKZ5i9Di5rqYlFvbQILq8FWbsihh+aaQWwekD64/gUHahnQFJtQvCWLru7I=" />
+<r v="1" t="1482671092" a="createCryptRecord" branchId="1482670415jsxuf1syb0" branchName="UkM1U0lNUAMg1HGbiSn7n7K1bFhAD/K2WMmmitZ9oadMuKyhG0vwuj6k4zupiBO8Ndhm+Gig72PyVwTzAmpWvia8fJZ2ZSoK" recordId="1482671092bdsnam3yde" recordName="UkM1U0lNUAPEM33KlZI0cNNG+I4mh63tq5ywY5TnCO7qS5/4OPvAtu22w0h2ugY7QMju8v+6V3f96vIAK/8fHmN+oW7D5QE5kCxmDiua80M5FYSMTFeny9x02rQPt8hjtT3/5qQf4OSEqpsL+Gchkw==" />
+<r v="1" t="1482671226" a="startSyncro" />
