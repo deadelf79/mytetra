@@ -77,3 +77,6 @@
 <r v="1" t="1483263602" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="14832636021skdmoi2em" recordName="Структура сцены. Как найти неожиданное решение?" />
 <r v="1" t="1483265201" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1483265201hgfyuurphd" recordName="Малый типовой набор для создания гениальных произведений в стиле &quot;фэнтези&quot;" />
 <r v="1" t="1483265240" a="startSyncro" />
+<r v="1" t="1483265255" a="stopSyncro" />
+<r v="1" t="1483277155" a="createRecord" branchId="1481105428aajrhoujiw" branchName="Начинающим сценаристам" recordId="1483277155se5jayr1yz" recordName="Один герой – две истории" />
+<r v="1" t="1483277663" a="startSyncro" />
